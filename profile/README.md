@@ -11,7 +11,7 @@ Our best work starts after dusk, so the lab is named for the hour. Some of what 
 
 ### Nearly there
 
-- **[foogl](https://foo.gl)** · A link shortener you host yourself, on your own domain. · [code](https://github.com/duskresearch/foogl)
+- **[Foogl](https://foo.gl)** · A link shortener you host yourself, on your own domain. · [code](https://github.com/duskresearch/foogl)
 - **[Formweh](https://formweh.com)** · Forms, waitlists and surveys that land in one inbox you own. · [code](https://github.com/duskresearch/formweh)
 
 ### Exploring
