@@ -8,9 +8,6 @@ Our best work starts after dusk, so the lab is named for the hour. Some of what 
 
 - **[Timebase](https://timebase.me)** · Time zones and calendar countdowns, on iPhone and the web. · [code](https://github.com/timebaseapp)
 - **[Outage Observer](https://outage.observer)** · Live status for the infrastructure and AI providers in your stack: a board, a bot, a Mac app. · [code](https://github.com/duskresearch/outage-observer)
-
-### Nearly there
-
 - **[Foogl](https://foo.gl)** · A link shortener you host yourself, on your own domain. · [code](https://github.com/duskresearch/foogl)
 - **[Formweh](https://formweh.com)** · Forms, waitlists and surveys that land in one inbox you own. · [code](https://github.com/duskresearch/formweh)
 
