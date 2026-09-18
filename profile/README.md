@@ -11,14 +11,17 @@ Our best work starts after dusk, so the lab is named for the hour. Each project 
 - **[Foogl](https://foo.gl)** · A link shortener you host yourself, on your own domain. · [code](https://github.com/duskresearch/foogl)
 - **[Formweh](https://formweh.com)** · Forms, waitlists, and surveys made easy to self-host. · [code](https://github.com/duskresearch/formweh)
 
+### Nearly there
+
+- **[Primitives](https://primitiv.es)** · Instruments for the fundamentals of design.
+- **[Intuitive Software](https://intuitive.software)** · Build and own the tools you need.
+
 ### Exploring
 
 - **[Infer](https://infer.fyi)** · A cross-platform AI browser powered by local models.
 - **[Medivalent](https://medivalent.com)** · Find the equivalent of your medicines in other countries.
 - **[Shio](https://shio.sh)** · The cross-platform terminal for the agent era. · [code](https://github.com/shio-sh/shio)
 - **[Stem](https://stem.md)** · Document your rabbit holes and discover new ones.
-- **[Primitives](https://primitiv.es)** · Instruments for the fundamentals of design.
-- **[Intuitive Software](https://intuitive.software)** · Build and own the tools you need.
 
 ### Evolved
 
