@@ -17,6 +17,8 @@ Our best work starts after dusk, so the lab is named for the hour. Each project 
 - **[Medivalent](https://medivalent.com)** · Find the equivalent of your medicines in other countries.
 - **[Shio](https://shio.sh)** · The cross-platform terminal for the agent era. · [code](https://github.com/shio-sh/shio)
 - **[Stem](https://stem.md)** · Document your rabbit holes and discover new ones.
+- **[Primitives](https://primitiv.es)** · Instruments for the fundamentals of design.
+- **[Intuitive Software](https://intuitive.software)** · Build and own the tools you need.
 
 ### Evolved
 
