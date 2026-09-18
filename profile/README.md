@@ -13,7 +13,7 @@ Our best work starts after dusk, so the lab is named for the hour. Each project 
 
 ### Nearly there
 
-- **[Primitives](https://primitiv.es)** · Instruments for the fundamentals of design.
+- **[Primitives](https://primitiv.es)** · Instruments for the fundamentals of design. · [code](https://github.com/duskresearch/primitives)
 - **[Intuitive Software](https://intuitive.software)** · Build and own the tools you need.
 
 ### Exploring
